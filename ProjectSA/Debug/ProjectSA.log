@@ -1,0 +1,267 @@
+﻿Сборка начата 02.03.2016 15:34:01.
+     1>Проект "D:\VisualStudio\Projects\ProjectSA\ProjectSA\ProjectSA.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Main.cpp
+         Main.cpp
+     1>d:\visualstudio\projects\projectsa\projectsa\classes\clobject.cpp(251): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\classes\clobject.cpp(252): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\classes\clbuttonmainmenu.cpp(62): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\classes\clbuttoninterface.cpp(79): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\classes\clsmallstar.cpp(28): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\classes\clsmallstar.cpp(42): warning C4244: +=: преобразование "float" в "int", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\classes\clsmallstar.cpp(49): warning C4244: -=: преобразование "float" в "int", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\classes\clbigstar.cpp(65): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\classes\clbigstar.cpp(79): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\classes\clbigstar.cpp(80): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\classes\clbigstar.cpp(81): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\classes\clbigstar.cpp(82): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\classes\clbigstar.cpp(83): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\classes\clbigstar.cpp(84): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\classes\clbigstar.cpp(85): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\classes\clbigstar.cpp(86): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\classes\clbigstar.cpp(87): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\classes\clbigstar.cpp(88): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\classes\clbigstar.cpp(89): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\classes\clbigstar.cpp(92): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\classes\clbigstar.cpp(136): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\classes\clbigstar.cpp(143): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\classes\clbigstar.cpp(146): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\classes\clbigstar.cpp(153): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\classes\clbigstar.cpp(160): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\classes\clbigstar.cpp(168): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\classes\clbigstar.cpp(175): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\classes\clbigstar.cpp(186): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\classes\clbigstar.cpp(209): warning C4305: +=: усечение из "double" к "float"
+     1>d:\visualstudio\projects\projectsa\projectsa\classes\clbigstar.cpp(217): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\classes\clbigstar.cpp(218): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\classes\clbigstar.cpp(220): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\classes\clplanet.cpp(84): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\classes\clplanet.cpp(123): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\classes\clplanet.cpp(130): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\classes\clplanet.cpp(133): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\classes\clplanet.cpp(140): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\classes\clplanet.cpp(147): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\classes\clplanet.cpp(155): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\classes\clplanet.cpp(162): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\classes\clplanet.cpp(173): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\classes\clplanet.cpp(196): warning C4305: +=: усечение из "double" к "float"
+     1>d:\visualstudio\projects\projectsa\projectsa\classes\clplanet.cpp(204): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\classes\clplanet.cpp(205): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\classes\clplanet.cpp(207): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\classes\clspaceship.cpp(81): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\classes\clspaceship.cpp(204): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\classes\clspaceship.cpp(230): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\classes\clspaceship.cpp(261): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\classes\clspaceship.cpp(284): warning C4244: -=: преобразование "double" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\classes\clspaceship.cpp(292): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\classes\clspaceship.cpp(331): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\classes\clspaceship.cpp(341): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\classes\clspaceship.cpp(342): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\classes\clspaceship.cpp(343): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\classes\clspaceship.cpp(344): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\classes\clspaceship.cpp(346): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\classes\clspaceship.cpp(360): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\classes\clspaceship.cpp(371): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\classes\clspaceship.cpp(398): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\classes\clspaceship.cpp(404): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\classes\clspaceship.cpp(410): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\classes\clspaceship.cpp(416): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\classes\clspaceship.cpp(438): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\classes\clspaceship.cpp(439): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\classes\clspaceship.cpp(504): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\classes\clspaceship.cpp(511): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\classes\clspaceship.cpp(514): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\classes\clspaceship.cpp(521): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\classes\clspaceship.cpp(528): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\classes\clspaceship.cpp(536): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\classes\clspaceship.cpp(543): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\classes\clspaceship.cpp(554): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\classes\clspaceship.cpp(565): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\classes\clspaceship.cpp(575): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\classes\clspaceship.cpp(583): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\classes\clspaceship.cpp(591): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\classes\clspaceship.cpp(601): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\classes\clspaceship.cpp(609): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\classes\clspaceship.cpp(617): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\classes\clspaceship.cpp(786): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\classes\clspaceship.cpp(787): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\classes\clspaceship.cpp(792): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\classes\clspaceship.cpp(793): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\classes\clspaceship.cpp(801): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\classes\clspaceship.cpp(802): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\classes\clspaceship.cpp(835): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\classes\clstarsystem.cpp(44): warning C4305: =: усечение из "double" к "float"
+     1>d:\visualstudio\projects\projectsa\projectsa\classes\clstarsystem.cpp(45): warning C4305: =: усечение из "double" к "float"
+     1>d:\visualstudio\projects\projectsa\projectsa\classes\clstarsystem.cpp(93): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\classes\clstarsystem.cpp(96): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\classes\clstarsystem.cpp(114): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\classes\clstarsystem.cpp(117): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\classes\clstarsystem.cpp(149): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\classes\clstarsystem.cpp(150): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\classes\clstarsystem.cpp(155): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\classes\clstarsystem.cpp(159): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\classes\clstarsystem.cpp(162): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\classes\clstarsystem.cpp(166): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\classes\clstarsystem.cpp(192): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\classes\clstarsystem.cpp(216): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\main.cpp(210): warning C4800: int: принудительно задано логическое значение "true" или "false" (предупреждение о производительности)
+     1>d:\visualstudio\projects\projectsa\projectsa\main.cpp(211): warning C4800: int: принудительно задано логическое значение "true" или "false" (предупреждение о производительности)
+     1>d:\visualstudio\projects\projectsa\projectsa\main.cpp(214): warning C4800: int: принудительно задано логическое значение "true" или "false" (предупреждение о производительности)
+     1>d:\visualstudio\projects\projectsa\projectsa\main.cpp(216): warning C4800: int: принудительно задано логическое значение "true" или "false" (предупреждение о производительности)
+     1>d:\visualstudio\projects\projectsa\projectsa\main.cpp(229): warning C4309: инициализация: усечение константного значения
+     1>d:\visualstudio\projects\projectsa\projectsa\main.cpp(596): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\main.cpp(597): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\main.cpp(619): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\main.cpp(620): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\main.cpp(627): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\main.cpp(680): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\main.cpp(687): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\main.cpp(688): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\main.cpp(722): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\main.cpp(724): warning C4305: =: усечение из "double" к "float"
+     1>d:\visualstudio\projects\projectsa\projectsa\main.cpp(752): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\main.cpp(769): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\main.cpp(770): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\main.cpp(852): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\main.cpp(872): error C2065: biTestBI: необъявленный идентификатор
+     1>d:\visualstudio\projects\projectsa\projectsa\main.cpp(872): error C2227: выражение слева от "->bEnabled" должно указывать на тип класса, структуры или объединения либо на универсальный тип
+                 тип: unknown-type
+     1>d:\visualstudio\projects\projectsa\projectsa\main.cpp(873): error C2065: biTestBI: необъявленный идентификатор
+     1>d:\visualstudio\projects\projectsa\projectsa\main.cpp(873): error C2227: выражение слева от "->SetWidth" должно указывать на тип класса, структуры или объединения либо на универсальный тип
+                 тип: unknown-type
+     1>d:\visualstudio\projects\projectsa\projectsa\main.cpp(874): error C2065: biTestBI: необъявленный идентификатор
+     1>d:\visualstudio\projects\projectsa\projectsa\main.cpp(874): error C2227: выражение слева от "->SetHeight" должно указывать на тип класса, структуры или объединения либо на универсальный тип
+                 тип: unknown-type
+     1>d:\visualstudio\projects\projectsa\projectsa\main.cpp(875): error C2065: biTestBI: необъявленный идентификатор
+     1>d:\visualstudio\projects\projectsa\projectsa\main.cpp(875): error C2227: выражение слева от "->SetXY" должно указывать на тип класса, структуры или объединения либо на универсальный тип
+                 тип: unknown-type
+     1>d:\visualstudio\projects\projectsa\projectsa\main.cpp(876): error C2065: biTestBI: необъявленный идентификатор
+     1>d:\visualstudio\projects\projectsa\projectsa\main.cpp(876): error C2227: выражение слева от "->SetName" должно указывать на тип класса, структуры или объединения либо на универсальный тип
+                 тип: unknown-type
+     1>d:\visualstudio\projects\projectsa\projectsa\main.cpp(877): error C2065: biTestBI: необъявленный идентификатор
+     1>d:\visualstudio\projects\projectsa\projectsa\main.cpp(877): error C2227: выражение слева от "->SetKey" должно указывать на тип класса, структуры или объединения либо на универсальный тип
+                 тип: unknown-type
+     1>d:\visualstudio\projects\projectsa\projectsa\main.cpp(878): error C2065: biTestBI: необъявленный идентификатор
+     1>d:\visualstudio\projects\projectsa\projectsa\main.cpp(878): error C2227: выражение слева от "->fntFont" должно указывать на тип класса, структуры или объединения либо на универсальный тип
+                 тип: unknown-type
+     1>d:\visualstudio\projects\projectsa\projectsa\main.cpp(908): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\main.cpp(1047): warning C4305: +=: усечение из "double" к "float"
+     1>d:\visualstudio\projects\projectsa\projectsa\main.cpp(1049): warning C4305: +=: усечение из "double" к "float"
+     1>d:\visualstudio\projects\projectsa\projectsa\main.cpp(1344): warning C4305: аргумент: усечение из "double" к "float"
+     1>d:\visualstudio\projects\projectsa\projectsa\main.cpp(1482): error C2065: biTestBI: необъявленный идентификатор
+     1>d:\visualstudio\projects\projectsa\projectsa\main.cpp(1482): error C2227: выражение слева от "->SetXYcursor" должно указывать на тип класса, структуры или объединения либо на универсальный тип
+                 тип: unknown-type
+     1>d:\visualstudio\projects\projectsa\projectsa\main.cpp(1503): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\main.cpp(1505): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\main.cpp(1507): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\main.cpp(1509): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\main.cpp(1602): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\main.cpp(1608): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\main.cpp(1623): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\main.cpp(1627): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\main.cpp(1629): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\main.cpp(1639): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\main.cpp(1640): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\main.cpp(1644): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\main.cpp(1645): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\main.cpp(1655): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\main.cpp(1656): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\main.cpp(1660): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\main.cpp(1670): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\main.cpp(1675): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\main.cpp(1677): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\main.cpp(1678): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\main.cpp(1679): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\main.cpp(1680): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\main.cpp(1689): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\main.cpp(1699): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\main.cpp(1704): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\main.cpp(1705): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\main.cpp(1707): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\main.cpp(1719): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\main.cpp(1726): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\main.cpp(1727): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\main.cpp(1728): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\main.cpp(1729): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\main.cpp(1743): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\main.cpp(1748): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\main.cpp(1749): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\main.cpp(1751): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\main.cpp(1752): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\main.cpp(1760): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\main.cpp(1761): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\main.cpp(1763): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\main.cpp(1764): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\main.cpp(1766): error C2065: biTestBI: необъявленный идентификатор
+     1>d:\visualstudio\projects\projectsa\projectsa\main.cpp(1766): error C2227: выражение слева от "->Draw" должно указывать на тип класса, структуры или объединения либо на универсальный тип
+                 тип: unknown-type
+     1>d:\visualstudio\projects\projectsa\projectsa\main.cpp(1791): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\main.cpp(1801): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\main.cpp(1802): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\main.cpp(1803): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\main.cpp(1804): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\main.cpp(1843): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\main.cpp(1844): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\main.cpp(1845): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\main.cpp(1846): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\main.cpp(1856): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\main.cpp(1867): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\main.cpp(1870): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\main.cpp(1871): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\main.cpp(1872): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\main.cpp(1873): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\main.cpp(1884): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\main.cpp(1886): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\main.cpp(1889): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\main.cpp(1890): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\main.cpp(1891): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\main.cpp(1892): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\main.cpp(1916): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\main.cpp(1980): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\main.cpp(1981): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\main.cpp(1982): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\main.cpp(1983): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\main.cpp(1994): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\main.cpp(1997): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\main.cpp(1998): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\main.cpp(1999): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\main.cpp(2000): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\main.cpp(2003): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\main.cpp(2005): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\main.cpp(2006): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\main.cpp(2007): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\main.cpp(2008): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\main.cpp(2011): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\main.cpp(2014): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\main.cpp(2018): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\main.cpp(2019): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\main.cpp(2026): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\main.cpp(2028): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\main.cpp(2047): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\main.cpp(2050): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\main.cpp(2053): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\main.cpp(2064): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\main.cpp(2067): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\main.cpp(2070): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\main.cpp(2075): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\main.cpp(2086): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\main.cpp(2092): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\main.cpp(2093): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\main.cpp(2103): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\main.cpp(2105): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\main.cpp(2146): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\main.cpp(2166): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\main.cpp(2167): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\main.cpp(2168): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\main.cpp(2169): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\main.cpp(2183): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\main.cpp(2197): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\main.cpp(2197): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\main.cpp(2369): warning C4305: =: усечение из "double" к "float"
+     1>d:\visualstudio\projects\projectsa\projectsa\main.cpp(2454): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+     1>d:\visualstudio\projects\projectsa\projectsa\main.cpp(2455): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+     1>Сборка проекта "D:\VisualStudio\Projects\ProjectSA\ProjectSA\ProjectSA.vcxproj" завершена (целевые объекты Build) с ошибкой.
+
+Ошибка сборки.
+
+Затраченное время: 00:00:04.68

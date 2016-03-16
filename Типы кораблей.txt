@@ -1,0 +1,166 @@
+1 Frigates
+    Frigate (aka frig)- These are the ships everyone can fly starting out. They are cheap and good for tackling in PvP as well as fighting in faction warfare space. All pilots start in one, usually flying level 1 missions. 
+
+    Interceptor (aka inty)- Purpose built tackling frigates, but paper thin, great for small gang support and most PvP operations. Not very useful for PvE purposes. 
+
+    Assault Ship (aka AF)- High-resistance frigates, Assault Frigates are more durable than Interceptors and put out more damage. Mostly used as heavy hitting frigates for solo travels or for holding down targets for the fleet. 
+
+    Covert Ops (aka covops or bomber)- A stealth frigate specializing in finding the enemy and providing intel. While providing valuable intelligence as a forward scout, Covert Ops ships also get bonuses to probes, making them ideal for finding foreign ships and exploration. Also, they contain the subset of stealth bombers, capable of using torpedoes and bombs on a target. 
+
+    Electronic Attack Frigate (aka EAF)- A relatively new Electronic Warfare specialist frigate, designed to provide quick support for small gangs at a low cost. Their small size makes them ideal for tackling and light EWAR support against larger targets. 
+
+2 Destroyers
+    Destroyer (aka dessie)- Destroyers are just a step up from frigates, ideal for killing other frigates. The eight high slots make it ideal for a lightweight salvaging ship. 
+
+    Interdictor (aka dictor)- This tech 2 destroyer is almost a requirement for 0.0 PvP operations. It's ability to produce a interdiction bubble is unique to this ship. Plus, it is ideal for killing frigates and small ships. 
+
+3 Cruisers
+    Cruiser- Usually the first multi-million isk ship that pilots buy, the cruiser is the first step up most pilots take on their road to perfection. Used for cheap medium sized support and level 2 missions, these cruisers are usually just a stepping stone towards a more capable and expensive ship. 
+
+    Heavy Assault Ship (aka HAC)- All HACs fill a unique role in the universe, having heavier armor and unique characteristics. These are ubiquitous in PvP, found alone, and in small and large gangs alike. They are often used for harder level 2 or 3 missions as well. 
+
+    Recon Ship (aka recon)- Recons are tech 2 cruisers specialized for electronic warfare. Recons are divided into Combat Recons and Force Recons. Combat Recons possess greater damage potential and sturdier tanks, though they do not possess either type of cloaking bonus. Force Recons are capable of warping cloaked, these ships spend much of their time attacking other solo ships or calling in the cavalry with their bonus to cyno gen fuel usage. They are ideal for solo PvP. 
+
+    Logistic(aka logi)- Logistic ships are tech 2 cruisers focused on one task, assisting other ships. While they have decent resistances, they are purpose built on giving other ships armor, shields, energy, or electronic subsystems support. Having one flying in a PvP or PvE gang is a force multiplier for defense purposes.
+    Heavy Interdictor (aka Hictor)- Essential for 0.0 defense, the Hictor can fit a Warp Disruption Field Generator, causing ships warp drives to fail. They can be fitted with heavy tanks as well. When fitted with a script, they can also generate a long-range infinite warp disruption beam, very useful in low sec operations. 
+
+    Strategic Cruisers (aka t3) are cruisers built off Sleeper technology, as made available in the Apocrypha expansion. They were the first T3 cruisers, and support a fully modular structure, where players can mix and match in 5 different subcategories, changing available slots, shield/armor/structure strength and other vital characteristics. They are mostly comparable to Heavy Assault Ships. However, with the right subsystems fitted they can function as Recon Ships and even fit a Covops Cloak . 
+
+4 Battlecruisers
+    Battlecruiser (aka BC)- Battlecruisers are the next step up in a pilot's development life. They are able to take more punishment and put out more damage than a cruiser. They are heavily used in PvP, as they are half the price of a battleship. But they are also used quite heavily in PvE, as they breeze through Level 3 missions, along with doing some Level 4's. 
+
+    Command Ship (aka CS)- Command ships are the tech 2 version of the battlecruiser, the primary purpose being providing gang warfare links to other in their fleet. However, they can also have some of the heaviest tanks and put out heavy damage. They are primarily a support craft, but their special abilities are also useful to a fleet. They are also commonly seen in PvE Level 4 and Level 5 missions, sometimes assisting other ships in completing the mission. 
+
+5 Battleships
+    Battleship (aka BS)- The Battleship is the goal of all newbie pilots out there, and the core of any successful fleet operation. Battleships are larger than all previous ships, are more capable, can produce more damage, and survive more damage. They are essential to PvP and the most common ship for PvE for Level 4 and 5 missions. While they are actually easy to get into, they take a long time to fly well. If you buy one and fly it in combat, you will lose it eventually. They are the test between a new pilot and an experienced pilot. 
+
+    Marauder- The first Tech 2 battleship, the Marauder is the ultimate in focused damage dealing. Having special bonuses for it's weapons, it frees up high slots for other helpful modules like NOS and Tractor Beams. These are rarely seen in PvP due to their low sensor strength, allowing them to be jammed more easily than other battleships. However, they are very common in PvE Level 4 missions, many times as a salvage vehicle due to their extended tractor range. 
+
+    Black Op (aka BlOps)- The second Tech 2 battleship, the Black Ops is designed to fulfill a covert role. While having slightly lower damage output and tanking ability of a battleship, they are the only non-capital ship which possesses their own short-range jump drive. In addition to their internal jump drive, they may fit a Covert Jump Portal Generator I module which opens a bridge that select ships may travel through. The type of ships which may utilize the covert jump bridge are those with a cloak bonus, either to movement or warping while cloaked (Jump Harmonics 2). Black Ops may lock on to normal Cynosural Fields which are used by Capital Ships, although they have the unique ability to lock on to special Covert Cynosural Fields opened from either Covert Ops vessels and Force Recon ships. These are not very common ships in the eve universe yet, but their purpose seem to be for stealth PvP operations in hostile territory, with the ability to bypass defensive camps. 
+
+6 Industrial ships
+    Industrial Ship (aka indy or hauler)- Industrial ships are needed by everyone, PvP and PvE pod pilots alike. If you are hauling loot or hauling ore, an indy will make your life easier by allowing you carry more, making for fewer trips. Almost every pilot out there is capable of flying one from time to time. They are core of industry, allowing pod pilots to move vast amounts of goods from point to point. But remember that the cargo capacity comes with the price tag of being slow. 
+
+    Transport Ship- Transport ships are more capable tech 2 industrial ships. Having higher resistances, some are capable of fitting a covert ops cloak while others have a +2 warp strength. While they cannot all hold more than tech 1 industrials, they all give you a better chance against pirates looking to steal your hard earned cargo. 
+
+7 ORE Ships
+    Mining Frigate - This category consists of one ship currently, the Venture. An entry level mining platform, this platform allows new pilots to get to grips with mining, while also allowing for operation in lower security space with it's built in warp stabilizer bonus and utility high slot. It is also the only ship currently available with a gas mining bonus, this mixed with its sizable ore bay makes it a great ship for new and older players alike. 
+
+    Mining Barge (aka barge)- Mining is the start of the life cycle of most ships, giving pod pilots the base minerals to make modules and ships. Mining barges are capable of pulling large amounts of ore from asteroids, with a longer cycle time than frigate, cruiser or battleship mining. If you are mining in high sec, in a mission deadspace, or 0.0, a mining barge is the start of your mining career. 
+
+    Exhumer- Exhumers are tech 2 mining barges, allowing for greater mining potential. They have higher resistances, which give them the ability to survive pirate attack. Some specialize in ice mining while others have increased warp strength and specialize in mercoxit mining. 
+
+    ORE Industrial- This category consists of one ship currently, the Noctis. A loot and salvage expert. Boosting Tractor Beam and Salvager cycle time and Tractor Beam range and velocity. 
+
+    Industrial Command Ship- This category consists of one ship currently, the Orca. A mining support platform, the Orca is a bulk ore carrier, similar to a freighter, yet is much more suited for the rigors of mining than any freighter. 
+
+    Capital Industrial Ship- There is only one Cap Industrial right now, the Rorqual. It is a capital ship, and while not quite as capable as a carrier, it can fit capital modules and provide capital support for other ships. It is designed to be a mining support platform on a large scale. It can compress ore, allowing vast amounts of ore to be quickly moved to remote bases. As a capital ship it requires the use of cyno fields to move about. 
+
+8 Capital Ships
+    Freighter- Freighters are huge cargoholds with a warp drive engine. While not able to fit any modules or rigs, they are how the bulk of materials move in empire space. Capable of holding 30 times as much as regular Industrial ships, these are slow moving targets for any interested in piracy. Getting a freighter through 0.0 space is a true test of teamwork for a corporation or alliance. 
+
+    Jump Freighter (aka JF)- Jump freighters are tech 2 freighters, having around a third the cargo capacity but having the ability to use cyno generators or jump bridges to move around low sec and 0.0. The ability to use star gates and cyno gens allows a jump freighter to easily transition between the safety of empire and beyond to the edges of the empires, dragging mass quantities of material with it. 
+
+    Dreadnought (aka Dread)- Dreadnoughts are large gun ships, capable of surviving the most brutal of assaults and putting out more single target damage than any other ship. Capable of fitting a siege module, these ships can enter a 10 minute cycle time which makes them capable of putting out 6.25x as much damage and repair 2x as much, but unable to warp or receive help from other ships. These are the backbone of POS warfare and are critical for most capital ship takedowns. The first capital ships many pilots can fly. 
+
+    Carrier- Carriers are fairly common throughout the low- and null-sec. They are essential for logistics for 0.0 corporations, for support in remote and hostile locations, and commonly used for large scale mining operations as well. They are capable of fitting gang warfare modules, fighter drones, and triage modules. Their ship maintenance array allows them to transport other ships, up to and including battleships in size. 
+
+    Supercarrier (formerly called motherships or moms now known as supers)- Essentially scaled up carriers, supercarriers are less common than their smaller brethren and focused more towards combat. Like carriers they are capable of fitting gang warfare modules and fighter drones however they cannot fit a triage module. Additionally they are capable of deploying fighter bombers, drones specifically designed to destroy a capital ship in a short amount of time, and fitting a remote ECM burst, which allows them to remotely break the locks of groups of enemy ships. Like titans these ships are capable of withstanding amazing amounts of damage. 
+
+    Titan- Titans are currently the top end of ships that a pod pilot can fly. They are big and slow, but capable of withstanding amazing damage. They can fit a doomsday device that is capable of destroying a capital ship in one shot. These are the most expensive ships in eve, and usually fitted with the most expensive faction, deadspace and officer modules as well. 
+
+9 Other
+    Rookie Ship- The starting ship for every pod pilot out there, this is the absolute worst ship to be flying at all times. Slow, with a small hold, minimal armaments, and no defenses, this is the ship of the zero SP alt. The only plus to these ships is that they are free in the case of a ship loss. 
+
+    Shuttle- The smallest flyable ship, the shuttle is not to be overlooked for its quick alignment, its innate speed, miniscule cost, and tiny cargo capacity. Great for going places while leaving your more useful ships behind. 
+
+    Miscellaneous - Limited edition and discontinued ships that do not fit into other categories. 
+----------------------------------------------------------------------------------------------------------------------
+ Фрегаты
+
+    Фрегат (ака холодильник) - Эти корабли все могут летать начинают. Они дешевы и хорошо для борьбы в PvP, а также боевых действий в фракции боевого пространства. Все пилоты стартуют в один, как правило, летать уровень 1 миссии. 
+
+    Перехватчик (ака Инты) - Цель построен решения фрегатов, но бумага тонкая, отлично подходит для поддержки малого и банды большинство операций PvP. Не очень полезно для PvE целей. 
+
+    Десантный корабль (он же А. Ф.) - Высокая стойкость фрегатов, Штурмовые Фрегаты более долговечны, чем перехватчики и потушить больше урона. В основном используется как тяжелое удара фрегатов для сольных путешествий или для проведения вниз цели для флота. 
+
+    Тайные Ops (ака covops или бомбардировщиков) - стелс фрегат специализируется на поиске врага и обеспечение Intel. В то время как предоставление ценной интеллект как вперед разведчика, Covert Ops корабли и получить бонусы зондов, что делает их идеальными для нахождения иностранных судов и разведку. Кроме того, они содержат подмножество бомбардировщики-невидимки, способного с помощью торпед и бомб на цель. 
+
+    Электронная Атака Фрегат (ака ДСП) - относительно новый специалист Electronic Warfare фрегат, обеспечивает быстрый поддержки малого банд по низкой цене. Их небольшой размер делает их идеальными для решения и свет EWAR поддержку против крупных целей. 
+
+Разрушители
+
+    Разрушитель (ака Dessie) - Разрушители лишь шаг от фрегатов, идеально подходит для убийства других фрегатов. Восемь слотов высокие делают его идеальным для легкого спасения корабля. 
+
+    Interdictor (ака предиктором) - это техника 2 эсминца почти требование для 0.0 PvP операций. Это способность производить запрет пузырь является уникальной для этого корабля. Кроме того, он идеально подходит для убийства фрегатов и малых кораблей. 
+
+Крейсера
+
+    Крейсер - Обычно первый многомиллионный ISK корабль, что пилоты купить, крейсер является первым шагом на большинство пилотов взять на их пути к совершенству. Используется для дешевых среднего размера поддержки и уровня 2 миссии, эти крейсера, как правило, только ступенькой к более способного и дорогой корабль. 
+
+    Тяжелая десантный корабль (он же ВАК) - Все HACS заполнить уникальную роль во Вселенной, имея тяжелую броню и уникальными характеристиками. Они широко распространены в PvP, нашел один, и в больших и малых банд так. Они часто используются в течение 2 сложнее уровень или 3 миссии, а также. 
+
+    Recon Корабль (ака разведка) - Recons являются высокотехнологичные 2 крейсера специализируется на радиоэлектронной борьбы. Recons делятся на боевые Recons и сил Recons. Боевые Recons обладают большим потенциалом ущерба и крепкие танки, хотя они не обладают любой тип маскировки бонус. Force Recons способны коробления плаще, эти корабли проводят большую часть своего времени нападения на другие сольные корабли или позвонив в кавалерии с их бонус к собакоподобных обезьян поколения расход топлива. Они идеально подходят для соло PvP. 
+
+    Логистический (ака логи) - Логистические корабли технологий 2 крейсера сосредоточены на одной задаче, помогая другим судам. В то время как у них есть достойные сопротивления, они специально построенный на предоставление других судов доспехи, щиты, энергии или поддержку электронных подсистем. Имея один полет в PvP PvE или банды сила множитель для целей обороны.
+    Тяжелая Interdictor (ака Hictor) - Необходим для 0,0 обороне, Hictor может поместиться Деформация Срыв поле генератора, в результате чего корабли деформировать диски на провал. Они могут быть оснащены тяжелых танков, а также. При установке с сценарием, они также могут генерировать большие расстояния бесконечно разрывом основы луч, очень полезный в низких операций в секунду.
+
+    Стратегические крейсера (ака T3) являются крейсера построены от технологии Sleeper, а доступны в Апокриф расширения. Они были первыми T3 крейсера, и поддерживать в полной мере модульную структуру, где игроки могут смешивать и сочетать в различных подкатегориях 5, изменение доступных слотов, щит / броня / силы структуры и другие жизненно важные характеристики. Они в основном сопоставимы с тяжелым десантные корабли. Однако, при правильном подсистемы установлены они могут функционировать как Recon судов и даже соответствовать Covops плащ. 
+
+Линейные крейсера
+
+    Крейсер (ака до н.э.) - линейные крейсера являются следующим шагом в жизни развития пилота. Они способны взять на себя больше наказания, и потушить больше вреда, чем крейсера. Они широко используются в PvP, так как они в два раза дешевле линкора. Но они также используются довольно тяжело в PvE, так как они ветер через уровень 3 миссии, наряду с выполнением некоторого уровня 4-х. 
+
+    Командное судно (ака CS) - Командные корабли версия тек 2 крейсера, основной целью является предоставление бандитских разборок ссылки на друга в их флота. Тем не менее, они также могут иметь некоторые из самых тяжелых танков и потушить сильный урон. Они в первую очередь поддержка ремесло, но их специальные способности также полезны для флота. Они также часто видели в PvE уровне 4 и 5 уровня миссий, иногда помогая другим корабли в завершении миссии. 
+
+Корабли
+
+    Броненосец (ака BS) - Броненосец цель всех начинающих пилотов там, и ядро любого успешного функционирования флота. Корабли больше, чем все предыдущие судов, более способны, может производить больше урона, и выжить больше урона. Они имеют важное значение для PvP и наиболее распространенных корабля для PvE для уровня 4 и 5 представительств. В то время как на самом деле они просто попасть, они принимают много времени, чтобы хорошо летать. Если вы покупаете один и летать в бою, вы потеряете его в конце концов. Они испытание между новым пилотом и опытного пилота. 
+
+    Мародер - Первый Технология 2 линкора, Мародер является конечной в ущерб ведения целенаправленной. Имея специальные бонусы для его оружия, она высвобождает высокие слота для модулей других полезных как NOS-тракторных пучков. Они редко встречаются в PvP из-за их низкой прочности датчика, что позволяет им быть застряла легче, чем другие кораблей. Тем не менее, они очень распространены в PvE уровне 4 миссии, как много раз спасительной автомобиля из-за их длительного диапазона трактора. 
+
+    Черный Op (ака Blops) - Второй Технология 2 линкора, в Black Ops предназначен для выполнения скрытого роль. Имея выход немного ниже повреждения и танков способность линкора, они только не капитал корабль, который обладает собственный прыжковый двигатель малой дальности. В дополнение к своей внутренней диск прыжка, они могут соответствовать модуль Скрытое Перейти Портал Генератор I, который открывается с моста, что выбрать корабли могут путешествовать через. Тип судов, которые могут использовать скрытое перехода мост те с бонусом плащ, либо движения или деформации, а облачена (переход гармоник 2). Black Ops может заблокировать на нормальной Cynosural полей, которые используются Capital судно, хотя они имеют уникальную возможность блокировки на специальный Скрытое Cynosural Поля открыл либо из Covert Ops судов и Force Recon судов. Это не очень часто корабли во вселенной накануне еще, но их цель, кажется, чтобы быть для скрытных операций PvP на враждебной территории, с возможностью обойти оборонительные лагеря. 
+
+Промышленные корабли
+
+    Промышленные корабль (он же инди или Эвакуатор) - Промышленные корабли нужны всем, PvP и PvE капсулирам так. Если вы тащили добычу руды или перетяжка, Инди сделает вашу жизнь проще, позволяя осуществлять более, что делает для меньшего количества поездок. Почти каждый пилот там способен летать один, время от времени. Они являются основными промышленности, что позволяет капсулирам двигаться огромное количество товаров от точки к точке. Но помните, что грузоподъемность поставляется с ценником быть медленным. 
+
+    Транспортное судно - Транспорт корабли, способные более тек 2 промышленных судов. Имея более высоких сопротивлений, некоторые способны установки скрытой ОПС плащ, а другие имеют силы +2 деформации. В то время как они не все могут держать больше, чем тек 1 промышленников, все они дают вам лучший шанс против пиратов, ищущих, чтобы украсть ваши с трудом заработанные груз. 
+
+ORE судно
+
+    Добыча Фрегат - Эта категория состоит из одного корабля в настоящее время, то предприятие. Запись уровень добыча платформа, эта платформа позволяет использовать новые пилоты, чтобы справиться с добычей, а также позволяет для работы в нижнем пространстве безопасности с он построен в основы стабилизатора бонуса и подсобное высокой слот. Это также единственный корабль в настоящее время доступны с горнодобывающей газа бонуса, это смешанная с значительным залива руды делает его большой корабль для новых и старых игроков. 
+
+    Добыча Баржа (ака баржа) - Горнодобывающая промышленность является начало жизненного цикла большинства судов, давая капсулирам базовые минералы, чтобы сделать модулей и кораблей. Барж способны вытягивать большое количество руды из астероидов, с более длинным временем цикла, чем фрегат, крейсер или линкор добычи. Если вы добыча в высоком сек, в Deadspace миссии, или 0,0, горнодобывающей баржа начало вашего горнодобывающей карьеры. 
+
+    Exhumer - рудокопов являются высокотехнологичные 2 барж, что позволяет с большей горнодобывающей потенциала. Они имеют более высокие сопротивления, которые дают им возможность выжить нападение пиратов. Некоторые специализируются на добыче льда в то время как другие повышенную прочность основы и специализируется на Mercoxit добычи. 
+
+    РУД Промышленные - Эта категория состоит из одного корабля в настоящее время, в NOCTIS. Бабло и спасти эксперт. Повышение лучом и Salvager время цикла и спектр лучом и скорость. 
+
+    Промышленные командное судно - эта категория состоит из одного корабля в настоящее время, то Orca. Горный поддержка платформы, Orca является балкер руды, похожий на грузовом, но гораздо больше подходит для суровых горных работ, чем любой грузового. 
+
+    Капитал Промышленные Корабль - Существует только один Кап Промышленные прямо сейчас, Rorqual. Это столица корабль, и при этом совершенно не способны, как носителя, это может соответствовать модули капитала и обеспечить поддержку капитала для других судов. Он разработан, чтобы быть добыча поддержка платформы на больших масштабах. Она может сжимать руды, что позволяет огромное количество руды должны быть быстро перемещены в отдаленные баз. В столице корабля требует использования собакоподобных обезьян полей передвигаться. 
+
+Капитальные судно
+
+Капитальные корабли (с исключением Грузовое скачок Грузовое и Orca) не может войти HiSec и должны двигаться через собакоподобных обезьян полей в низкой и нулевой сек.
+
+    Freighter - перевозчики огромные cargoholds с основы приводного двигателя. В то время как не в состоянии соответствовать любых модулей или установок, они, как большая часть материалов двигаться в империи пространстве. Возможность проведения 30 раз больше, чем обычных промышленных кораблей, эти медленные движущихся целей для любого заинтересованного в пиратстве. Получение грузовое через 0,0 пространства является настоящим испытанием для совместной работы корпорации или альянса. 
+
+    Перейти грузовой (ака JF) - переход грузовые являются высокотехнологичные 2 грузовых, имея вокруг третьей грузоподъемностью, но имеющие возможность использовать собакоподобных обезьян генераторы или прыгать мосты для перемещения низкий сек и 0.0. Возможность использования звездочных ворота и собакоподобных обезьян род позволяет прыгать грузовой легко переходить между безопасностью империи и за ее пределами по краям империй, волоча массовых количествах материала с ним. 
+
+    Дредноут (ака Страх) - Дредноуты являются крупные корабли, пушки, способные выживать в самых жестоких нападений и тушить больше одного целевого ущерб, чем любой другой корабль. Возможность установки модуля осады, эти корабли могут ввести 10-минутный время цикла, что делает их способными тушении 6.25x, как много вреда и ремонт 2x, как много, но не в состоянии деформировать или получить помощь от других судов. Они являются основой POS войны и имеют решающее значение для большинства партер капитал судов. Первая столица суда многие пилоты могут летать. 
+
+    Carrier - Носители являются довольно распространенными во всем низким и нуль-сек. Они имеют важное значение для логистики для 0.0 корпораций, для поддержки в отдаленных и враждебных местах, и обычно используется для крупномасштабных горных работ, а также. Они способны модулей Место банды войны, истребителей дронов и сортировки модулей. Их корабль массив обслуживания позволяет им переносить другие корабли, вплоть до линкоров в размере. 
+
+    SuperCarrier (ранее называемые материнские или мамы в настоящее время известные как надставок) - По сути масштабируется до перевозчиков, Суперкарриеры реже, чем их меньшие братья и сосредоточены больше на боях. Как носителей они способны фитинговых модулей бандитских разборок и истребителей дронов, однако они не могут поместиться модуль сортировки. Кроме того, они способны развертывания истребителей бомбардировщики, беспилотники, специально предназначенные для уничтожения капитала корабль в короткий промежуток времени, и установки удаленного ECM Burst, который позволяет им удаленно взломать замки групп вражеских кораблей. Как титанов эти корабли способны выдерживать удивительные суммы ущерба. 
+
+    Titan - Титаны настоящее время верхний конец судов, что стручок пилот может летать. Они большие и медленно, но способна выдерживать удивительный ущерб. Они могут соответствовать апокалиптическое устройство, которое способно уничтожить капитала корабль в одном кадре. Они являются самыми дорогими отгружается в канун, и, как правило, оснащены наиболее дорогих фракции, Deadspace и офицерских модулей, а также. 
+
+Другие
+
+    Новичок Корабль - Стартовый корабль для каждого пилота-под там, это самое худшее корабль летит во все времена. Медленное, с небольшим трюма, минимальные вооружений, и не оборону, это корабль нулевой SP ALT. Единственный плюс этих судов является то, что они свободны в случае потери судна. 
+
+    Трансфер - Самый маленький летный корабль, шаттл не следует упускать из виду его быстрой установки, присущей скорости, незначительный стоимости, и крошечной грузоподъемностью. Отлично подходит для собираюсь места, оставляя свои более полезные корабли позади. 
+
+    Разное - Общество с ограниченной издание и прекращенная корабли, которые не вписываются в другие категории. 
